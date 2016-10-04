@@ -1,0 +1,7 @@
+GET /destinations/search
+GET /destination/city/details
+POST /auth
+GET /home
+POST /booking/reservation
+POST /booking/payment
+GET /booking/confirmation

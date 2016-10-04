@@ -1,0 +1,2 @@
+index,host,source,sourcetype,_raw
+main,www.destinations.com,/var/log/httpd/access_log,access_custom,"2012-09-14 17:29:11:000 5.5.5.5 POST /playhistory/uploadhistory - 80 - 10.2.1.35 ""Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; Sprint APX515CKT Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"" 200 0 0 468 1488"
