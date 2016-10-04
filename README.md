@@ -23,3 +23,5 @@ Code files are available only for chapters 1 and 7.
 [Mastering Splunk](https://www.packtpub.com/big-data-and-business-intelligence/mastering-splunk?utm_source=GitHub&utm_medium=repository&utm_campaign=9781782173830)
 
 [Advanced Splunk](https://www.packtpub.com/big-data-and-business-intelligence/advanced-splunk?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785884351)
+
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) for any feedbacks or suggestions.
